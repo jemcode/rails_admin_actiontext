@@ -20,7 +20,7 @@ E.g. `gem 'actiontext'`
 
 
 ## Configuration
-To use ActionText follow their installation instructions.
+To use ActionText follow the Rails installation instructions (don't forget ActiveStorage if you want to allow drag and drop images).
 
 ```ruby
 RailsAdmin.config do |config|
