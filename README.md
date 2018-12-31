@@ -1,6 +1,6 @@
 # RailsAdminActiontext
 
-[![Gem Version](https://badge.fury.io/rb/rails_admin_actiontext.svg)](http://badge.fury.io/rb/rails_admin_actiontext)
+[![Gem Version](https://badge.fury.io/rb/rails_admin_actiontext.svg)](https://badge.fury.io/rb/rails_admin_actiontext)
 [![Code Climate](https://codeclimate.com/github/jemcode/rails_admin_actiontext/badges/gpa.svg)](https://codeclimate.com/github/jemcode/rails_admin_actiontext)
 
 [RailsAdmin](https://github.com/sferik/rails_admin) extension for enabling the Rails 6 [ActionText](https://github.com/rails/actiontext) editor.
