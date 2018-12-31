@@ -10,6 +10,7 @@
 To enable **rails_admin_actiontext**, add the following to your `Gemfile`:
 
 ```ruby
+gem 'rails_admin'
 gem 'rails_admin_actiontext'
 ```
 
