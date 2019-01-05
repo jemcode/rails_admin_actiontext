@@ -14,11 +14,6 @@ gem 'rails_admin'
 gem 'rails_admin_actiontext'
 ```
 
-It should go without saying that this plugin also requires the actiontext gem.
-
-E.g. `gem 'actiontext'`
-
-
 ## Configuration
 To use ActionText follow the Rails installation instructions (don't forget ActiveStorage if you want to allow drag and drop images).
 
